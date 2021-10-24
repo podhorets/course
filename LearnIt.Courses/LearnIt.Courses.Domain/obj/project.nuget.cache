@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQIic/nc3t8tfBlzV3xsOvXekcDndLAAKnsw0TtuEviQ3j7kzoPyFkV7xB7nn/6U13Wdm0zY7UxAmS8FydR3qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\podho\\Desktop\\otus_oleksii\\LearnIt\\src\\api\\LearnIt.Courses\\LearnIt.Courses.Domain\\LearnIt.Courses.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\podho\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\podho\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\podho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\podho\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

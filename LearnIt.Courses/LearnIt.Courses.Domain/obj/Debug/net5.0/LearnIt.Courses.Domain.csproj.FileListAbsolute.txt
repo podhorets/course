@@ -1,0 +1,12 @@
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\bin\Debug\net5.0\LearnIt.Courses.Domain.deps.json
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\bin\Debug\net5.0\LearnIt.Courses.Domain.dll
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\bin\Debug\net5.0\ref\LearnIt.Courses.Domain.dll
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\bin\Debug\net5.0\LearnIt.Courses.Domain.pdb
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\obj\Debug\net5.0\LearnIt.Courses.Domain.csproj.AssemblyReference.cache
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\obj\Debug\net5.0\LearnIt.Courses.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\obj\Debug\net5.0\LearnIt.Courses.Domain.AssemblyInfoInputs.cache
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\obj\Debug\net5.0\LearnIt.Courses.Domain.AssemblyInfo.cs
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\obj\Debug\net5.0\LearnIt.Courses.Domain.csproj.CoreCompileInputs.cache
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\obj\Debug\net5.0\LearnIt.Courses.Domain.dll
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\obj\Debug\net5.0\ref\LearnIt.Courses.Domain.dll
+C:\Users\podho\Desktop\otus_oleksii\LearnIt\src\api\LearnIt.Courses\LearnIt.Courses.Domain\obj\Debug\net5.0\LearnIt.Courses.Domain.pdb
